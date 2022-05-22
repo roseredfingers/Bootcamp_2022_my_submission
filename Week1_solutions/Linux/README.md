@@ -13,7 +13,7 @@
     * <code>cp -R</code> : recursive copy
     * <code>cp -u</code> : update
     * <code>cp -v</code> : print information message
-* The command to rename a file: sudo apt-get install rename
+* The command to rename a file: <code>sudo apt-get install rename</code>
 
 
 ## Question 2
